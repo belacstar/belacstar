@@ -1,6 +1,6 @@
 ### Hi! I'm Bela! Nice to meet you! 👋
 
-- 🔭 I’m currently working as a FullStack Developer
+- 🔭 I’m currently searching for a job as FullStack Developer
 - 🌱 I’m currently learning Typescript
 - 📫 How to reach me: belacstar@gmail.com
 - 😄 Pronouns: She/Her
