@@ -1,6 +1,6 @@
 ### Hi! I'm Bela! Nice to meet you! 👋
 
-- 🔭 I’m currently Looking for an internship as a web developer
+- 🔭 I’m currently Working as QA
 - 🌱 I’m currently Studying computer science
 - 📫 How to reach me: belacstar@gmail.com or https://www.linkedin.com/in/isabela-camara-/
 - 😄 Pronouns: She/Her
